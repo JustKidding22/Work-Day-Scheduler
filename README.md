@@ -3,6 +3,9 @@
 ## Functionality :
 
 Calender application that allows a user to save events for each hour of the day.
+Each time block is color-coded whether it's in the past, present, or future.
+The color gray indicates the past, red is present, and greeb is the future.
+Based on bussiness hours.
 
 ## Made with :
 
